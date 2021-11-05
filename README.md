@@ -1,5 +1,7 @@
 # MyApp
 
+Basic task app running with json-server backend
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.12.
 
 ## Development server
